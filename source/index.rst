@@ -26,6 +26,8 @@ The main documentation for the site is organized into a following sections:
     :caption: Implementer Documentation
 
     implementer/key_concepts
+    implementer/dss_architecture
+    implementer/multi_language
 
 .. _developer-docs:
 
