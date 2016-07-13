@@ -16,6 +16,7 @@ The main documentation for the site is organized into a following sections:
     :caption: User Documentation
   
     installation
+    using_decision_support
 
 
 .. _implementer-docs:
@@ -24,6 +25,7 @@ The main documentation for the site is organized into a following sections:
     :maxdepth: 2
     :caption: Implementer Documentation
 
+    key_concepts
 
 .. _developer-docs:
 
