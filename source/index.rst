@@ -23,7 +23,7 @@ The main documentation for the site is organized into a following sections:
 
 .. toctree::
     :maxdepth: 2
-    :captionc: Implementer Documentation
+    :caption: Implementer Documentation
 
     implementer/key_concepts
     implementer/dss_architecture
