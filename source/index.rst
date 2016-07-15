@@ -28,6 +28,7 @@ The main documentation for the site is organized into a following sections:
     implementer/key_concepts
     implementer/dss_architecture
     implementer/multi_language
+    implementer/dss_configuration
 
 .. _developer-docs:
 
