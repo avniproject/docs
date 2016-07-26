@@ -15,8 +15,12 @@ The main documentation for the site is organized into a following sections:
     :maxdepth: 2
     :caption: User Documentation
   
+    user/introduction
     user/installation
     user/using_decision_support
+    user/troubleshooting
+    user/datamanagement
+
 
 
 .. _implementer-docs:
