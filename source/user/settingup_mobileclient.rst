@@ -14,4 +14,5 @@ If the OpenCHS app is not installed on your device perform following steps:
     b) Enter Server URL : http://wwww.openchs.org/config
     c) Tap Locale > Choose Language
     d) Press Sync - wait till the sync completes to finalise the changes
+
 4.Close the app and reopen
